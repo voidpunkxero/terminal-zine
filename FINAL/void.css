@@ -200,3 +200,9 @@ body.toc-page {
   color: red;
   margin-right: 0.5rem;
 }
+
+@media (max-width: 768px) {
+  .logo {
+    font-size: 0.6rem !important;
+  }
+}
